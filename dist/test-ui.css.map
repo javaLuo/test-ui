@@ -1,0 +1,5 @@
+.button {
+  background-color: #ccccff;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJ1dHRvbi9zdHlsZXMubGVzcyIsImJ1dHRvbi9zdHlsZXMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UseUJBQUE7QUNDRiIsImZpbGUiOiJ0ZXN0LXVpLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5idXR0b257XG4gIGJhY2tncm91bmQtY29sb3I6ICNjY2NjZmY7XG59IiwiLmJ1dHRvbiB7XG4gIGJhY2tncm91bmQtY29sb3I6ICNjY2NjZmY7XG59XG4iXX0= */
