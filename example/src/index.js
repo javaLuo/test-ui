@@ -74,5 +74,3 @@ class Test extends React.Component {
 
 ReactDom.render(<Test />, document.getElementById('root'));
 // test02
-
-// step1
