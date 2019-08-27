@@ -1,4 +1,5 @@
 import React from 'react';
+// test01
 // import Vcode from '../../dist/index.js';
 import ReactDom from 'react-dom';
 import { Button } from '../../lib';
@@ -73,3 +74,5 @@ class Test extends React.Component {
 
 ReactDom.render(<Test />, document.getElementById('root'));
 // test02
+
+// step1
